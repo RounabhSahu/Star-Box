@@ -14,3 +14,9 @@
 <h3>Sample of this project</h3>
 
 ![stars.gif](stars.gif)
+
+Code for this sample
+
+```javascript
+    <BlinkBox width={30} speed={100} percent={0.5} radii={'80%'}/>
+```
